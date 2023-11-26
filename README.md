@@ -1,7 +1,3 @@
-# Website Link
-
-http://josaaproject.pythonanywhere.com
-
 # JOSAA Seat Allotment Portal
 
 This project aims to create a portal to explore the seat allotment statistics of the Joint Seat Allocation Authority (JOSAA) until 2022. The portal allows users to analyze the data and provides insights and visualizations based on the JOSAA seat allotment data from 2016 to 2021 and 2022. The following are the key goals and technologies used in this project.
